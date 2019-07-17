@@ -4,10 +4,9 @@
 ![Putin Approved Stamp](https://raw.githubusercontent.com/putinapproved/putinapproved/master/PutinApproved.png)
 
 
-## I created the Putin Approved stamp to help combat the trend of people on social media re-posting disinformation specifically created to
-## harm our social discourse, create fear and doubt, and undermining our political process.
+### I created the Putin Approved stamp to help combat the trend of people on social media re-posting disinformation specifically created to harm our social discourse, create fear and doubt, and undermining our political process.
 
-## Q&A:
+### Q&A:
 
 * Q: How do I use the Putin Approved image?
 * A: Post it in social media comments in response to propaganda that has no basis in reality. Or if the site you're responding to only supports
