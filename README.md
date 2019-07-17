@@ -16,7 +16,7 @@ text, post a link to this website.
 **A:** It means the person responding to posted content felt it fits the criteria for untruthful or truth-twisting propaganda. Or they could be
 misusing the stamp. If you felt the person using this stamp was in error, provide factual sources to backup your argument.
 
-**Q:** Isn't this an attack on the [right|left|free speech|etc]\
+**Q:** Isn't this really just an attack on the [right|left|free speech|etc]\
 **A:** Private and nation-sponsored organizations have shown a preference for propaganda that appeals to the far right, but that's not always
 the case. They will use anything that manipulates reality to maximize dissent, hatred, and divisiveness on all political sides. Disinformation,
 propaganda, and obscuring the truth is the real attack.
@@ -63,5 +63,7 @@ Etherium:
 
 Feedback or ideas to betterize things?
 Contact me at ![](https://raw.githubusercontent.com/putinapproved/putinapproved/master/vputinapproved_at_gmail.png)
+
+Twitter: @putinapproved1 ![](https://twitter.com/putinapproved1)
 
 ![This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. To view a copy of this license, visit](http://creativecommons.org/licenses/by-nc-nd/4.0/)
