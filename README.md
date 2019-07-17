@@ -1,7 +1,7 @@
 
 # Putin Approved - The Offical Site of the Putin Approved Stamp**
 
-![Putin Approved Stamp](https://raw.githubusercontent.com/putinapproved/putinapproved/master/PutinApproved.png|width=400)
+![Putin Approved Stamp](https://raw.githubusercontent.com/putinapproved/putinapproved/master/PutinApproved.png)
 
 
 I created the Putin Approved stamp to help combat the trend of people on social media re-posting disinformation specifically created to
@@ -64,6 +64,6 @@ Etherium:
 
 
 Feedback or ideas to betterize things?
-Contact me at ![](https://raw.githubusercontent.com/putinapproved/vputinapproved_at_gmail.jpg)
+Contact me at ![](https://raw.githubusercontent.com/putinapproved/putinapproved/master/vputinapproved_at_gmail.jpg)
 
 ![This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. To view a copy of this license, visit](http://creativecommons.org/licenses/by-nc-nd/4.0/)
