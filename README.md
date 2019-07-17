@@ -1,7 +1,7 @@
 
-**Putin Approved - The Offical Site of the Putin Approved Stamp**
+# Putin Approved - The Offical Site of the Putin Approved Stamp**
 
-![](https://raw.githubusercontent.com/putinapproved/putinapproved/master/PutinApproved.png | width=400)
+![Putin Approved Stamp](https://raw.githubusercontent.com/putinapproved/putinapproved/master/PutinApproved.png | width=400)
 
 
 I created the Putin Approved stamp to help combat the trend of people on social media re-posting disinformation specifically created to
@@ -38,15 +38,15 @@ A: You can right-click (or command-click, depending on your OS) the image above,
 
 The image above is a 1600x1600 png. Here are all the sizes:<p>
 
-[2200x2200 png] (https://raw.githubusercontent.com/putinapproved/putinapproved/master/PutinApproved.png)
+[2200x2200 png](https://raw.githubusercontent.com/putinapproved/putinapproved/master/PutinApproved.png)
 
-[1024x1024 png] (https://raw.githubusercontent.com/putinapproved/putinapproved/master/PutinApproved-1024.png)
+[1024x1024 png](https://raw.githubusercontent.com/putinapproved/putinapproved/master/PutinApproved-1024.png)
 
-[800x800 png] (https://raw.githubusercontent.com/putinapproved/putinapproved/master/PutinApproved-800.png>800x800 png)
+[800x800 png](https://raw.githubusercontent.com/putinapproved/putinapproved/master/PutinApproved-800.png>800x800 png)
 
-[160x160 thumbnail png] (https://raw.githubusercontent.com/putinapproved/putinapproved/master/PutinApproved-thumbnail.png)
+[160x160 thumbnail png](https://raw.githubusercontent.com/putinapproved/putinapproved/master/PutinApproved-thumbnail.png)
 
-All of these images are available [to download on Github] (https://github.com/putinapproved/putinapproved.git>)
+All of these images are available [to download on Github](https://github.com/putinapproved/putinapproved.git>)
 
 If you would like to support me to help get the "Putin Approved" word out, please feel free to donate a satoshi or two to the cause.
 Anything you send will be used to keep this website running, disseminating the Putin Approved image further and wider,
@@ -54,14 +54,14 @@ and to seek additional ways in which we can all combat the growing crisis of dis
 
 Bitcoin:
 `39fSrYqFGauimM91c3sswvGQFu1pW9pDms`
-![] (https://raw.githubusercontent.com/putinapproved/putinapproved/master/btc.png)
+![BTC scan code](https://raw.githubusercontent.com/putinapproved/putinapproved/master/btc.png)
 
 Etherium:
 `0xfe722b8abed62e1049b6cb22b3ed353eb0ec746f`
-![] (https://raw.githubusercontent.com/putinapproved/putinapproved/master/eth.png)
+![ETH scan code](https://raw.githubusercontent.com/putinapproved/putinapproved/master/eth.png)
 
 
 Feedback or ideas to betterize things?
 ![Contact me:] (https://raw.githubusercontent.com/putinapproved/vputinapproved_at_gmail.jpg)
 
-![This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. To view a copy of this license, visit] (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+![This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. To view a copy of this license, visit](http://creativecommons.org/licenses/by-nc-nd/4.0/)
