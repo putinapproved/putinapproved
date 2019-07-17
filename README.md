@@ -4,10 +4,10 @@
 ![Putin Approved Stamp](https://raw.githubusercontent.com/putinapproved/putinapproved/master/PutinApproved.png)
 
 
-I created the Putin Approved stamp to help combat the trend of people on social media re-posting disinformation specifically created to
-harm our social discourse, create fear and doubt, and undermining our political process.
+## I created the Putin Approved stamp to help combat the trend of people on social media re-posting disinformation specifically created to
+## harm our social discourse, create fear and doubt, and undermining our political process.
 
-Q&A:
+## Q&A:
 
 * Q: How do I use the Putin Approved image?
 * A: Post it in social media comments in response to propaganda that has no basis in reality. Or if the site you're responding to only supports
@@ -33,8 +33,8 @@ be altered in any way, other than size. This includes but is not limited to colo
 other modifications to the image. You may not claim credit for, or ownership of the image, nor may you attribute credit to anyone else.
 
 
-Q: How do I get the Putin Approved image?
-A: You can right-click (or command-click, depending on your OS) the image above, or you can right- or command-click on any of the links below:
+* Q: How do I get the Putin Approved image?
+* A: You can right-click (or command-click, depending on your OS) the image above, or you can right- or command-click on any of the links below:
 
 The image above is a 1600x1600 png. Here are all the sizes:<p>
 
