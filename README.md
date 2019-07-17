@@ -66,4 +66,5 @@ Contact me at ![](https://raw.githubusercontent.com/putinapproved/putinapproved/
 
 Twitter: @putinapproved1 [](https://twitter.com/putinapproved1)
 
-![This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. To view a copy of this license, visit](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. To view a copy of this license, visit
+http://creativecommons.org/licenses/by-nc-nd/4.0/
