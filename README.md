@@ -40,7 +40,7 @@ The image above is a 1600x1600 png. Here are all the sizes:<p>
 
 [1024x1024 png](https://raw.githubusercontent.com/putinapproved/putinapproved/master/PutinApproved-1024.png)
 
-[800x800 png](https://raw.githubusercontent.com/putinapproved/putinapproved/master/PutinApproved-800.png>800x800)
+[800x800 png](https://raw.githubusercontent.com/putinapproved/putinapproved/master/PutinApproved-800.png)
 
 [160x160 thumbnail png](https://raw.githubusercontent.com/putinapproved/putinapproved/master/PutinApproved-thumbnail.png)
 
